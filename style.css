@@ -6,6 +6,7 @@ body{
 h1{
 	font-weight:100;
 	color:white;
+	text-align: center;
 }
 #logo{
 	height:80px;
