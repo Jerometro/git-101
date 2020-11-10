@@ -1,11 +1,12 @@
 body{
 	margin: 0;
 	font-family: Helvetica;
-	background-color:blue;
+	background-color:yellow;
 }
 h1{
 	font-weight:100;
 	color:white;
+	text-align: center;
 }
 #logo{
 	height:80px;
